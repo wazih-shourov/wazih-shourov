@@ -43,6 +43,19 @@ Outside of the lab, I spend time on language model experimentation, computer vis
 
 ---
 
+## 🏆 Certifications & Achievements
+
+I actively pursue specialized training to stay at the forefront of AI and Data Engineering.
+
+| Certificate | Issuing Organization | View |
+| :--- | :--- | :--- |
+| **Python 101 for Data Science** | IBM / Cognitive Class | [📄 View PDF](./Certificates/Python%20101%20for%20Data%20Science.pdf) |
+| **Business Intelligence Professional** | Corporate Finance Institute (CFI) | [📄 View PDF](./Certificates/Business%20Intelligence.pdf) |
+| **Data Analysis with Python** | Cognitive Class | [📄 View PDF](./Certificates/Python.pdf) |
+| **Microsoft Excel for Data Analysis** | Advanced Training | [📄 View PDF](./Certificates/MS_Excel.pdf) |
+
+---
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
